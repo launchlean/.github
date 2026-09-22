@@ -1,23 +1,46 @@
 # LaunchLean
 
-LaunchLean is an open engineering project focused on practical local-first computing, self-hosted software and connected hardware.
+LaunchLean develops open, local-first software and connected hardware.
 
-We build systems around a simple idea: useful technology should remain understandable, controllable and functional on your own network.
+The project is built around modular systems that remain understandable, controllable and useful on your own network.
 
-## Projects
+## Software
 
-### NotaServer
-A modular local platform for hosting services, automation, monitoring and connected devices.
+### Not-a-Server
 
-### NOTOS
-A vehicle-focused computer interface designed for touch displays, local services and offline operation.
+A modular local platform for self-hosted services, automation, monitoring and connected devices.
 
-### Nota modules
-Independent components for music, video, chat, monitoring, sensors and browser services.
+### Not-a-OS
 
-### Hardware
+A vehicle-focused computer interface designed for touch displays, offline operation and local services.
 
-LaunchLean is also exploring hardware built around:
+### Not-a-Music
+
+Local-first music playback and media services.
+
+### Not-a-Videos
+
+A private local video and media library.
+
+### Not-a-Chat
+
+Local chat and assistant services.
+
+### Not-a-Monitor
+
+Monitoring, telemetry, diagnostics and device-health tools.
+
+### Not-a-Sensors
+
+Sensor collection, telemetry and automation integration.
+
+### Not-a-Browser
+
+A local browser service and browser-automation component.
+
+## Hardware
+
+LaunchLean is also developing and experimenting with:
 
 - low-power mini PCs
 - displays and vehicle installations
@@ -26,8 +49,9 @@ LaunchLean is also exploring hardware built around:
 - network-connected lighting and devices
 - sensors and automation
 - 3D-printable brackets and enclosures
+- centrally managed power and device systems
 
-## Philosophy
+## Approach
 
 Local-first where practical.
 
@@ -41,4 +65,4 @@ No unnecessary cloud dependency.
 
 ---
 
-Early development is public while the architecture and individual modules continue to evolve.
+LaunchLean is in active development and the architecture will continue to evolve as the individual modules mature.
